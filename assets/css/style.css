@@ -273,17 +273,19 @@ Mobile Navigation
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
+    text-align: center;
   }
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
+    text-align: center;
   }
 }
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 100px 0px;
+  padding: 60px 0px;
 }
 .section-title {
   text-align: center;
@@ -315,7 +317,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .width-limited {
-  max-width: 900px;
+  max-width: 950px;
 }
 .about .intro {
   margin-top: 50px;
